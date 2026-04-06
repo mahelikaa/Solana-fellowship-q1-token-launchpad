@@ -85,9 +85,10 @@ Express.js, PostgreSQL + Prisma, JWT + bcryptjs
 ## Start Command
 ```bash
 npm install && source .env && npx prisma generate && npx prisma db push && npm start
+```
 
 Server must listen on port **3000**.
-```
+
 ---
 
 ## 📊 Score
